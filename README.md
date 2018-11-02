@@ -12,7 +12,7 @@ my Syllabus to learn AI from scratch
 6. Tools
 7. Above & Beyond
 
-## 1. Math
+### 1. Math
 - Linear Algebra
   - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [cheat sheet](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
@@ -28,7 +28,7 @@ my Syllabus to learn AI from scratch
 - Math of Intelligence
   - [The Math of Intelligence](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 
-## 2. Code
+### 2. Code
 - Algorithms
   - [MIT syllabus](https://courses.csail.mit.edu/6.006/fall11/notes.shtml)
   - [Algorithm Design and Analysis](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
@@ -46,7 +46,7 @@ my Syllabus to learn AI from scratch
   - [Intro to Relational Databases](https://in.udacity.com/course/intro-to-relational-databases--ud197)
   - [Introduction to NoSQL Data Solutions](https://www.edx.org/course/introduction-to-nosql-data-solutions-2)
   
-## 3. Data Science
+### 3. Data Science
 - [Introduction to Computing for Data Analysis](https://www.edx.org/course/introduction-to-computing-for-data-analysis)
 - Data Mining
   - [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
@@ -55,7 +55,7 @@ my Syllabus to learn AI from scratch
 - Processing
 - Representation
 
-## 4. Machine Learning
+### 4. Machine Learning
 - [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
 - Types of Machine Learning
   - Supervised
@@ -68,7 +68,7 @@ my Syllabus to learn AI from scratch
 - Dimensionality Reduction
 - Reinforcement Learning
 
-## 5. Deep Learning
+### 5. Deep Learning
 - [Deep Learning Book](https://www.deeplearningbook.org/)
 - [Intro to Deep Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 - [Practical Deep Learning For Coders](https://course.fast.ai/)
@@ -80,7 +80,7 @@ my Syllabus to learn AI from scratch
 - Generative Adversarial Network
 - Deep Reinforcement Learning
 
-## 6. Tools
+### 6. Tools
 - Charts
 - Dashboard tools
 - Hadoop
@@ -93,7 +93,7 @@ my Syllabus to learn AI from scratch
     - [Intro to Tensorflow](https://www.youtube.com/playlist?list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
   - Keras
 
-## 7. Above & Beyond
+### 7. Above & Beyond
 - Computer Vision
   - [Introduction to Computer Vision](https://in.udacity.com/course/introduction-to-computer-vision--ud810)
 - Natural Language Processing
