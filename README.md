@@ -3,7 +3,7 @@ my Syllabus to learn AI from scratch
 
 ---
 
-## topics
+### topics
 1. Math
 2. Code
 3. Data Science
