@@ -55,9 +55,9 @@ my Syllabus to learn AI from scratch
 - Dashboard tools
 - Hadoop
 - Libraries
- - Scikit-Learn
- - TensorFlow
- - Keras
+  - Scikit-Learn
+  - TensorFlow
+  - Keras
 
 ## 7. Above & Beyond
 - Computer Vision
