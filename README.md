@@ -1,7 +1,6 @@
-### 02AI
+# 02AI
 my Syllabus to learn AI from scratch
 
----
 
 ### topics
 1. Math
