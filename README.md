@@ -1,8 +1,9 @@
 # 02AI
+
 my Syllabus to learn AI from scratch
 
+## topics
 
-### topics
 1. Math
 2. Code
 3. Data Science
@@ -12,6 +13,7 @@ my Syllabus to learn AI from scratch
 7. Above & Beyond
 
 ### 1. Math
+
 - Linear Algebra
   - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [cheat sheet](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
@@ -28,6 +30,7 @@ my Syllabus to learn AI from scratch
   - [The Math of Intelligence](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 
 ### 2. Code
+
 - Algorithms
   - [MIT syllabus](https://courses.csail.mit.edu/6.006/fall11/notes.shtml)
   - [Algorithm Design and Analysis](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
@@ -46,6 +49,7 @@ my Syllabus to learn AI from scratch
   - [Introduction to NoSQL Data Solutions](https://www.edx.org/course/introduction-to-nosql-data-solutions-2)
   
 ### 3. Data Science
+
 - [Introduction to Computing for Data Analysis](https://www.edx.org/course/introduction-to-computing-for-data-analysis)
 - Data Mining
   - [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
@@ -55,6 +59,7 @@ my Syllabus to learn AI from scratch
 - Representation
 
 ### 4. Machine Learning
+
 - [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
 - Types of Machine Learning
   - Supervised
@@ -68,6 +73,7 @@ my Syllabus to learn AI from scratch
 - Reinforcement Learning
 
 ### 5. Deep Learning
+
 - [Deep Learning Book](https://www.deeplearningbook.org/)
 - [Intro to Deep Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 - [Practical Deep Learning For Coders](https://course.fast.ai/)
@@ -80,6 +86,7 @@ my Syllabus to learn AI from scratch
 - Deep Reinforcement Learning
 
 ### 6. Tools
+
 - Charts
 - Dashboard tools
 - Hadoop
@@ -93,15 +100,15 @@ my Syllabus to learn AI from scratch
   - Keras
 
 ### 7. Above & Beyond
+
 - Computer Vision
   - [Introduction to Computer Vision](https://in.udacity.com/course/introduction-to-computer-vision--ud810)
 - Natural Language Processing
 
-
 ---
 thanks to Siraj Raval for his syllabus videos
 
-  - [llSourcell/Learn_Computer_Science_in_5_Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
-  - [llSourcell/Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
-  - [llSourcell/Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
-  - [llSourcell/Learn_Deep_Learning_in_6_Weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks)
+- [llSourcell/Learn_Computer_Science_in_5_Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
+- [llSourcell/Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
+- [llSourcell/Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
+- [llSourcell/Learn_Deep_Learning_in_6_Weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks)
