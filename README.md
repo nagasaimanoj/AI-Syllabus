@@ -89,7 +89,7 @@ my Syllabus to learn AI from scratch
 
 - Charts
 - Dashboard tools
-- Hadoop
+- Hadoop and MapReduce
   - [Intro to Hadoop and MapReduce](https://in.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 - Spark
   - [Intro to Apache Spark](https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
