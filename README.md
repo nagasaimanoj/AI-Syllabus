@@ -16,16 +16,26 @@ my Syllabus to learn AI from scratch
 
 - Linear Algebra
   - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!)
+  - [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)
+  - [Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)
   - [cheat sheet](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 - Calculus
   - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+  - [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)
+  - [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)
+  - [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x)
+  -[MIT OCW Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
   - [cheat sheet](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
-- Probability
+- Probability & Statistics
+  - [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
+  - [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)
+  - [Introduction to Statistics: Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)
+  - [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)
   - [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
-  - [cheat sheet](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
-- Statistics
   - [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
-  - [cheat sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
+  - [Probability cheat sheet](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
+  - [Statistics cheat sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 - Math of Intelligence
   - [The Math of Intelligence](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 
@@ -38,12 +48,15 @@ my Syllabus to learn AI from scratch
 - Data Structures
   - [Data Structures Fundamentals](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
 - Python
-  - [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-2)
-  - [Python for Data Science](https://www.edx.org/course/python-for-data-science-0)
   - [Learn Python](https://www.codecademy.com/learn/learn-python)
-  - [Learn Python for Data Science](https://www.youtube.com/playlist?list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+  - [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)
+  - [Python for Data Science](https://www.edx.org/course/python-for-data-science-0)
+  - [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-3)
+  - [Programming with Python for Data Science](https://www.edx.org/course/programming-with-python-for-data-science)
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - DataBases
+  - [Stanford's Database course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+  - [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
   - [Using Databases with Python](https://www.coursera.org/learn/python-databases)
   - [Intro to Relational Databases](https://in.udacity.com/course/intro-to-relational-databases--ud197)
   - [Introduction to NoSQL Data Solutions](https://www.edx.org/course/introduction-to-nosql-data-solutions-2)
@@ -51,16 +64,27 @@ my Syllabus to learn AI from scratch
 ### 3. Data Science
 
 - [Introduction to Computing for Data Analysis](https://www.edx.org/course/introduction-to-computing-for-data-analysis)
+- [Introduction to Data Science](https://www.coursera.org/course/datasci)
+- [Data Science - CS109 from Harvard](http://cs109.github.io/2015/)
+- [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
+
 - Data Mining
   - [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
 - Data Warehousing
+  - [Stanford's Database course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 - Cleaning
 - Processing
 - Representation
 
 ### 4. Machine Learning
 
-- [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
+- ML as a whole
+  - [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
+  - [Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
+  - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+  - [Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+  - [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
+
 - Types of Machine Learning
   - Supervised
   - Unsupervised
@@ -75,6 +99,7 @@ my Syllabus to learn AI from scratch
 ### 5. Deep Learning
 
 - [Deep Learning Book](https://www.deeplearningbook.org/)
+- [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
 - [Intro to Deep Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 - [Practical Deep Learning For Coders](https://course.fast.ai/)
 - Back Propagation
@@ -91,6 +116,7 @@ my Syllabus to learn AI from scratch
 - Dashboard tools
 - Hadoop and MapReduce
   - [Intro to Hadoop and MapReduce](https://in.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+  - [Deploying a Hadoop Cluster](https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000)
 - Spark
   - [Intro to Apache Spark](https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
 - Libraries
@@ -104,11 +130,13 @@ my Syllabus to learn AI from scratch
 - Computer Vision
   - [Introduction to Computer Vision](https://in.udacity.com/course/introduction-to-computer-vision--ud810)
 - Natural Language Processing
+  - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 
 ---
-thanks to Siraj Raval for his syllabus videos
+thanks to all the sources I mentioned below
 
 - [llSourcell/Learn_Computer_Science_in_5_Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
 - [llSourcell/Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
 - [llSourcell/Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
 - [llSourcell/Learn_Deep_Learning_in_6_Weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks)
+- [ossu/data-science](https://github.com/ossu/data-science)
