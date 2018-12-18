@@ -1,4 +1,4 @@
-# 02AI
+# Learn Artificial Intelligence the Hard Way
 
 my Syllabus to learn AI from scratch
 
