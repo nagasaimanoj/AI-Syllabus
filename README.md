@@ -1,4 +1,4 @@
-# Learn Artificial Intelligence the Hard Way
+# Artificial Intelligence Syllabus
 
 my Syllabus to learn AI from scratch
 
@@ -16,16 +16,9 @@ my Syllabus to learn AI from scratch
 
 - Linear Algebra
   - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-  - [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!)
-  - [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)
-  - [Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)
   - [cheat sheet](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 - Calculus
-  - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-  - [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)
-  - [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)
-  - [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x)
-  -[MIT OCW Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+  - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)mitx-18-01-3x)
   - [cheat sheet](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
 - Probability & Statistics
   - [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
@@ -42,20 +35,17 @@ my Syllabus to learn AI from scratch
 ### 2. Code
 
 - Algorithms
-  - [MIT syllabus](https://courses.csail.mit.edu/6.006/fall11/notes.shtml)
   - [Algorithm Design and Analysis](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
   - [Machine Learning for Data Science and Analytics](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/)
 - Data Structures
   - [Data Structures Fundamentals](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
 - Python
   - [Learn Python](https://www.codecademy.com/learn/learn-python)
-  - [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)
   - [Python for Data Science](https://www.edx.org/course/python-for-data-science-0)
   - [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-3)
   - [Programming with Python for Data Science](https://www.edx.org/course/programming-with-python-for-data-science)
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - DataBases
-  - [Stanford's Database course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
   - [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
   - [Using Databases with Python](https://www.coursera.org/learn/python-databases)
   - [Intro to Relational Databases](https://in.udacity.com/course/intro-to-relational-databases--ud197)
@@ -65,7 +55,6 @@ my Syllabus to learn AI from scratch
 
 - [Introduction to Computing for Data Analysis](https://www.edx.org/course/introduction-to-computing-for-data-analysis)
 - [Introduction to Data Science](https://www.coursera.org/course/datasci)
-- [Data Science - CS109 from Harvard](http://cs109.github.io/2015/)
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
 
 - Data Mining
@@ -133,7 +122,7 @@ my Syllabus to learn AI from scratch
   - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 
 ---
-thanks to all the sources I mentioned below
+thanks to these sources
 
 - [llSourcell/Learn_Computer_Science_in_5_Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
 - [llSourcell/Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
