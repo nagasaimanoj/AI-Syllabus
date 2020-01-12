@@ -20,24 +20,24 @@ my Syllabus to learn AI from scratch
 3. Data Handling
    1. Data Scrapping
    2. Data Bases
-   3. ETL
+   3. [ETL](https://www.guru99.com/etl-extract-load-process.html)
 4. Data Science
    1. Data Analysis
    2. Machine Learning
       1. Rule based approach
       2. Statistical Models (Shallow Learning)
-      3. Deep Learning (Neural Networks)
+      3.[ Deep Learning (Neural Networks)](https://www.deeplearningbook.org/)
    3. Use Cases and Algos
       1. Statistical Analysis
       2. Image Processing / Computer Vison
       3. Natural Language Processing
       4. Voice Processing
-      5. Time Series
-      6. Dimentional Reduction
+      5. [Time Series](https://otexts.com/fpp2/)
+      6. Dimensionality Reduction
 5. Tools
-   1. [NumPy](https://www.tutorialspoint.com/numpy)
-   2. [Pandas](https://www.tutorialspoint.com/python_pandas)
-   3. [MatPlotLib](https://www.tutorialspoint.com/matplotlib)
+   1. [NumPy](https://numpy.org/devdocs/user/quickstart.html)
+   2. [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+   3. [MatPlotLib](https://matplotlib.org/tutorials/introductory/pyplot.html)
    4. [Scikit-Learn](https://scikit-learn.org/stable/user_guide.html)
    5. [TensorFlow](https://www.tensorflow.org/tutorials)
    6. [Keras](https://keras.io/getting-started/functional-api-guide)
@@ -47,7 +47,7 @@ my Syllabus to learn AI from scratch
 ## Credits
 
 Thanks for all the brains that went into creating the tech and teaching it.
-`We owe you a big Thank U`
+`We owe U a big Thank U`
 
 - [Naga Sai Manoj](https://nagasaimanoj.github.io)
 - [Siraj Raval](https://twitter.com/sirajraval)
@@ -59,5 +59,5 @@ Thanks for all the brains that went into creating the tech and teaching it.
 
 ---
 
-`full disclaimer : some of these links might change and the creators might take down their content too 
+`* full disclaimer : some of these links might change and the creators might take down their content too 
   if thats the case, please do let me know`
