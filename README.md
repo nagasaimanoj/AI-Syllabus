@@ -18,22 +18,22 @@ my Syllabus to learn AI from scratch
    3. [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
    4. [Probability Theory](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
 3. Data Handling
-   1. Data Scrapping
-   2. Data Bases
+   1. Data Scrapping ([Selenium](https://www.guru99.com/selenium-tutorial.html) / [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/))
+   2. [Data Bases](https://www.guru99.com/mysql-tutorial.html)
    3. [ETL](https://www.guru99.com/etl-extract-load-process.html)
 4. Data Science
-   1. Data Analysis
+   1. [Data Analysis](https://www.quora.com/How-do-I-start-learning-data-analytics-step-by-step)
    2. Machine Learning
-      1. Rule based approach
-      2. Statistical Models (Shallow Learning)
+      1. [Rule based approach](https://www.tricentis.com/artificial-intelligence-software-testing/ai-approaches-rule-based-testing-vs-learning/)
+      2. [Statistical Models (Shallow Learning)](https://www.quora.com/What-is-the-difference-between-deep-learning-and-shallow-learning)
       3.[ Deep Learning (Neural Networks)](https://www.deeplearningbook.org/)
    3. Use Cases and Algos
-      1. Statistical Analysis
-      2. Image Processing / Computer Vison
-      3. Natural Language Processing
-      4. Voice Processing
-      5. [Time Series](https://otexts.com/fpp2/)
-      6. Dimensionality Reduction
+      1. [Statistical Analysis](https://whatis.techtarget.com/definition/statistical-analysis)
+         1. [Image Processing](https://www.geeksforgeeks.org/digital-image-processing-basics/) / [Computer Vison](https://machinelearningmastery.com/what-is-computer-vision/)
+      2. [Natural Language Processing](https://machinelearningmastery.com/natural-language-processing/)
+      3. [Voice Processing](https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/)
+      4. [Time Series](https://otexts.com/fpp2/)
+      5. [Dimensionality Reduction](https://www.analyticsvidhya.com/blog/2015/07/dimension-reduction-methods/)
 5. Tools
    1. [NumPy](https://numpy.org/devdocs/user/quickstart.html)
    2. [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
@@ -56,6 +56,13 @@ Thanks for all the brains that went into creating the tech and teaching it.
 - [HackerRank](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww)
 - [Ravindrababu Ravula](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ)
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
+- [Analyticsvidhya](https://www.analyticsvidhya.com)
+- [Jason Brownlee](https://machinelearningmastery.com/)
+- [otexts](https://otexts.com/)
+- [Geeks For Geeks](https://www.geeksforgeeks.org)
+- [Guru 99](https://www.guru99.com/)
+- [Quora](https://www.quora.com/)
+- [Whatis.Techtarget.com](https://whatis.techtarget.com/definition/statistical-analysis)
 
 ---
 
